@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-  ![](https://leetcard.jacoblin.cool/EmreU?ext=activity?theme=dark)
+  ![](https://leetcard.jacoblin.cool/EmreU?theme=dark&extension=activity)
 
 <!---
 emre-ulusoy/emre-ulusoy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
