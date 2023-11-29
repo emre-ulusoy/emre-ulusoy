@@ -4,7 +4,9 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-  ![](https://leetcard.jacoblin.cool/EmreU?theme=dark&extension=activity)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
+![](https://leetcard.jacoblin.cool/EmreU?theme=dark&extension=activity)
 
 <!---
 emre-ulusoy/emre-ulusoy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
