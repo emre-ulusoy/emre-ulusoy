@@ -10,7 +10,6 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![R](https://img.shields.io/badge/R-276DC3.svg?style=flat-square&logo=R&logoColor=white)
-![OnlyFans](https://img.shields.io/badge/OnlyFans-00AFF0.svg?style=flat-square&logo=OnlyFans&logoColor=white)
 
 ![](https://leetcard.jacoblin.cool/EmreU?theme=dark&extension=activity)
 
