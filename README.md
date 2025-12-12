@@ -11,7 +11,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![R](https://img.shields.io/badge/R-276DC3.svg?style=flat-square&logo=R&logoColor=white)
 
-![](https://leetcard.jacoblin.cool/EmreU?theme=dark&extension=activity)
+<!--- ![](https://leetcard.jacoblin.cool/EmreU?theme=dark&extension=activity) --->
 
 <!---
 emre-ulusoy/emre-ulusoy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
